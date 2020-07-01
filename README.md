@@ -2,6 +2,7 @@
 Project Generating Keywords for Google Ads
 
 Project Description
+
 You work for a digital marketing agency, which is approached by a massive online retailer of furniture. You are tasked with creating a prototype set of keywords for search campaigns for their sofas section. With your Python skills, you will efficiently create these keywords!
 
 The most important task in structuring a search engine marketing account is mapping the right keywords to the right ads and making sure they send users to the right landing pages. Having figured that out is a big part of the account setup and makes the life of the account manager much easier.
@@ -9,6 +10,7 @@ The most important task in structuring a search engine marketing account is mapp
 This Project requires that you know your way around Python and pandas. The following courses are recommended as prerequisites: Intro to Python for Data Science and Intermediate Python for Data Science.
 
 Project Tasks
+
 1. The brief
 2. Combine the words with the product names
 3. Convert the list of lists into a DataFrame
